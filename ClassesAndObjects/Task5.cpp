@@ -10,12 +10,17 @@ class A{
         }
         friend void modify();
 };
+
 void modify(){
     A obj1;
     cout<<"Private memberof class A, "<<obj1.a<<endl;
 }
+
 int main(){
     A obj1;
     modify();
     return 0;
 }
+
+// Output:
+//Private memberof class A, 5

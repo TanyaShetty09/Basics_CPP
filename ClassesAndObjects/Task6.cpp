@@ -11,12 +11,17 @@ class Distance{
             meter=0;
         }
 };
+
 int addFive(Distance d){         //Global Function, since scope resolution is not used
     d.meter+=5;
     return d.meter;
 }
+
 int main(){
     Distance D;
     cout<<"Distance: "<<addFive(D);
     return 0;
 }
+
+// Output:
+//Distance: 5

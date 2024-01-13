@@ -10,7 +10,9 @@ class A{
         return (a+obj.a);
     }
 };
+
 int A::a = 10;
+
 int main() {
     A obj1;
     int *ptr;
@@ -19,3 +21,6 @@ int main() {
     cout<<obj1.get(obj1)<<endl;
     return 0;
 }
+
+// Output:
+//40

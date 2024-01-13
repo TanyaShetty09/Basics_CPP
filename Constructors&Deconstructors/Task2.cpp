@@ -13,8 +13,12 @@ class A{
             this->a=a;
         }
 };
+
 int main(){
     A a(10);  //parametrized constructor will b called. Since parametrized constructor is public v get NO errors
     cout<<a.a<<endl;
     return 0;
 }
+
+// Output:
+//10

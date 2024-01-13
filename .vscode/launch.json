@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/Lenovo/Desktop/Jumpwhere/Basics_CPP/ClassesAndObjects",
-      "program": "c:/Users/Lenovo/Desktop/Jumpwhere/Basics_CPP/ClassesAndObjects/build/Debug/outDebug",
+      "cwd": "c:/Users/Lenovo/Desktop/Jumpwhere/Basics_CPP/Constructors&Deconstructors",
+      "program": "c:/Users/Lenovo/Desktop/Jumpwhere/Basics_CPP/Constructors&Deconstructors/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [

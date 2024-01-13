@@ -13,6 +13,7 @@ class A{
             return (a+b);
         }
 };
+
 int main(){
     A obj1(3,7);
     A *ptr;
@@ -21,3 +22,6 @@ int main(){
     cout<<obj1.getSum()<<endl;
     return 0;
 }
+
+// Output:
+//12

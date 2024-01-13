@@ -11,9 +11,11 @@ class A{
         cout<<a<<endl;
     }
 };
+
 void modify(A &ob) {                //NOTE &ob
     ob.a += 13;
 }
+
 int main(){
     A obj;
     obj.get();
@@ -21,3 +23,7 @@ int main(){
     obj.get();
     return 0;
 }
+
+// Output:
+//5
+//18

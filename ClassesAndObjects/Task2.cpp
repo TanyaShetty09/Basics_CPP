@@ -9,8 +9,12 @@ class A{
             this->a=a;
         }
 };
+
 int main(){
     A a(10);
     cout<<a.a<<endl;
     return 0;
 }
+
+// Output:
+//10

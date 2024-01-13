@@ -12,6 +12,7 @@ class A{
             return a;
         }
 };
+
 int A::a = 10;                  //static member can be accessed using class name
 int main(){
     A obj1, obj2, obj3;
@@ -21,3 +22,6 @@ int main(){
     cout<<obj3.get()<<obj2.get()<<obj1.get()<<endl;
     return 0;
 }
+
+// Output:
+//131313

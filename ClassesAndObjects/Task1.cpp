@@ -7,9 +7,13 @@ class A{
            a=x;
     }
 };
+
 int main(){
     A a;
     a.modify_a(10);
     cout<<a.a<<endl;
     return 0;
 }
+
+// Output:
+// 10
