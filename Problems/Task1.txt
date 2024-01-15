@@ -1,0 +1,103 @@
+1) Which of the following is not a feature of OOPS:
+A. Encapsulation
+B. Pointers
+C. Data hiding
+D. Inheritance
+//Answer: B
+
+
+2)Which of the following is true for a class? A class is
+A. parent of an object
+B. instance of an object
+C. blueprint of an object
+D. scope of an object
+//Answer: C
+
+
+3)Which class cannot create its instance?
+A. Virtual class
+B. Nested class
+C. Derived virtual class
+D. Abstract class
+//Answer: D
+
+4)Which of the following is not considered as a member of class?
+A. pure virtual function
+B. const function
+C. friend function
+D. static function
+//Answer: C 
+
+5)What members of the base are never accessible to the child?
+A. Private members
+B. Protected members
+C. Both Private and Protected members
+D. None of the above
+//Answer: A
+
+
+6)Which of the following operators can be overloaded?
+A. :: (scope resolution)
+B. (member selection)
+C. += (shorthand assignment)
+D. (member selection through pointer to function)
+E. sizeof(datatype)
+//Answer: C
+
+
+7) A class is tagged abstract, if it has
+A. Exactly one virtual method
+B. Atleast one virtual method
+C. Exactly one pure virtual method
+D. Atleast one pure virtual method
+//Answer: D
+
+
+8) Which of the following falls under the category static Polymorphism?
+A. Templates
+B. Function overloading
+C. Operator overloading
+D. All of the above
+//Answer: D
+
+
+9) What role a constructor plays in the class?
+A. Constructs a new class
+B. Constructs a new object
+C. Constructs a new function
+D. Initializes an object
+//Answer: D
+
+
+10) What is the correct way to declare a function virtual?
+A. int fun() virtual = {};
+B. virtual int fun() = 0;
+C. virtual fun() = 0;
+D. virtual int fun() {};
+//Answer: B
+
+
+11) Which of the following is not a type of constructor?
+A. Copy constructor
+B. Friend constructor
+C. Parameterized constructor
+D. Default constructor
+//Answer: B
+
+
+12) Which of the following is/are allowed in C++, B being base class and D being derived class
+A. Bobj = D();
+B. D obj = B();
+C. B*ptr; D obj;
+   ptr = &obj;
+D. D *ptr; B obj;
+   ptr = &obj;
+//Answer: A, C
+
+
+13) Which of the following features must be supported by any programming language to become a pure object-oriented programming language?
+A. Encapsulation
+B. Inheritance
+C. Polymorphism
+D. All of the above
+//Answer: D

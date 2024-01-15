@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/Lenovo/Desktop/Jumpwhere/Basics_CPP/Inheritance",
-      "program": "c:/Users/Lenovo/Desktop/Jumpwhere/Basics_CPP/Inheritance/build/Debug/outDebug",
+      "cwd": "c:/Users/Lenovo/Desktop/Jumpwhere/Basics_CPP/Problems",
+      "program": "c:/Users/Lenovo/Desktop/Jumpwhere/Basics_CPP/Problems/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
